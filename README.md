@@ -1,10 +1,6 @@
 Introduction,
 This is a group project for the Monty language interpreter, focused on implementing stacks and queues using C. The project is part of a learning experience to deepen understanding of algorithms, data structures, and programming in C.
 
-Team Members,
-- David Bolorunduro
-- Nnanna Atu
-
 Project Overview,
 
 Learning Objectives,
@@ -80,3 +76,8 @@ Copyright & Plagiarism,
 Solutions for tasks should be developed independently.
 Plagiarism is strictly forbidden and will result in removal from the program.
 
+
+
+AUTHORS/COLLABORATORS
+- David Bolorunduro
+- Nnanna Atu
